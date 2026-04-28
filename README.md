@@ -283,15 +283,3 @@ Practice(Chart)
 ├── TrainModel_Clicked()   ← ML pipeline
 └── ...
 ```
-
----
-
-## 👤 Author
-
-**Đặng Nguyễn Quang Huy**
-
----
-
-## 📄 License
-
-This project is for educational purposes.
