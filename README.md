@@ -135,8 +135,8 @@ hepatitis.csv ──▶ DataProcessor ──▶ IterativeImputer ──▶ Stand
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/huydeptrai1/DOANPYTHON.git
-cd DOANPYTHON
+git clone https://github.com/ncdanh0311/HepatitisDiagnosticAI.git
+cd Projects
 
 # 2. Tạo virtual environment (khuyến nghị)
 python -m venv venv
@@ -167,18 +167,12 @@ hepatitis-eda/
 │
 ├── trainer.py              # 🤖 ML Training Pipeline
 ├── nlp_intent.py           # 🧠 NLP Intent Classification
-├── Mono.py                 # 🎤 Voice Assistant (TTS + STT)
+├── Lynhz.py                 # 🎤 Voice Assistant (TTS + STT)
 │
-├── Game.py                 # 🎮 Mini-game (Pygame)
 ├── hepatitis.csv           # 📊 Dataset
 ├── requirements.txt        # 📦 Dependencies
 ├── README.md               # 📖 Tài liệu dự án
 │
-└── assets/                 # Resources
-    ├── app.ico
-    ├── background.png
-    ├── car.png
-    └── obstacles.png
 ```
 
 ---
