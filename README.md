@@ -1,4 +1,4 @@
-# 🏥 Hepatitis AI — Healthcare Analytics Platform
+# Hepatitis AI — Healthcare Analytics Platform
 
 Nền tảng phân tích và chẩn đoán viêm gan sử dụng AI, được chuyển đổi từ bản demo Streamlit sang hệ thống Fullstack chuyên nghiệp.
 
